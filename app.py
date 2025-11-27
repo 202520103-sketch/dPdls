@@ -1,4 +1,3 @@
-i# app.py
 import streamlit as st
 
 st.set_page_config(page_title="영타 → 한글 변환기", page_icon="🔤", layout="centered")
